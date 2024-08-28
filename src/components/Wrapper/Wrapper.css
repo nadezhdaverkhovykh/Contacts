@@ -1,0 +1,16 @@
+.wrapper {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 900px;
+  height: 900px;
+  border: 2px solid green;
+}
+.show__button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgb(73, 190, 73);
+  cursor: pointer;
+}
